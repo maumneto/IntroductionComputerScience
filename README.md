@@ -4,8 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/maumneto/introdComp)](https://github.com/maumneto/introdComp/network)
 [![GitHub stars](https://img.shields.io/github/stars/maumneto/introdComp)](https://github.com/maumneto/introdComp/stargazers)
 [![GitHub](https://img.shields.io/badge/version-1.0.0-orange)](https://img.shields.io/badge/version-1.0.0-orange)
-
-
+[![GitHub license](https://img.shields.io/github/license/maumneto/introdComp)](https://github.com/maumneto/introdComp/blob/master/LICENSE.md)
 
   
 This repository goal is to provide support for students of the Introduction of Computer Science course during the development of their programs using the Python 3 language. This repository contains the codes of the problems presented in this course.
