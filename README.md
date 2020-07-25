@@ -1,30 +1,26 @@
-# **Repositório de Códigos em Python - ICC**
+# **Introduction of Computer Science Repository**
   
-- Este repositório tem o objetivo de fornecer um suporte aos alunos de Introdução a Ciência da Computação durante o desenvolvimento de seus códigos usando a linguagem Python. Neste repositório você encontrará resoluções de questões comumentes utilizadas nas disciplinas introdutórias de programação.
+This repository goal is to provide support for students of the Introduction of Computer Science course during the development of their programs using the Python 3 language. This repository contains the codes of the problems presented in this course.
   
 -----
 
-## **Informação sobre o Mantenedor deste Repositório**
+## **About Maintainer**
 
 - Prof. Maurício Moreira Neto
-  
 - Lattes: [Link para Currículo Lattes](http://lattes.cnpq.br/7534400645876830)
-  
 - E-mail: <maumneto@gmail.com>
-  
-- Site Pessoal: [http://lia.ufc.br/~maumneto/](http://lia.ufc.br/~maumneto/)
-
-- Site da Disciplina: [Site da Disciplina ICC](https://maumneto.github.io/icc/index.html)
+- website: [http://lia.ufc.br/~maumneto/](http://lia.ufc.br/~maumneto/)
+- Course Website: [ICC Website](https://maumneto.github.io/icc/index.html)
 
 -----
 
-## **Hierarquia dos Materiais**
+## **Contents**
 
-- Neste repositório cada `folder` possui um conjunto de arquivos Python referentes as questões da lista de exercícios
+- Each `folder` in this repository has a set of Python files referring to the questions presented in the class.
   
-- A resolução da lista é de fundamental importância para a fixação do conteúdo ministrado (além de ser divertido :smile:)
+- The solution of these questions is fundamental to fixing the content taught (besides being fun: smile :)
   
-- A seguir é apresentado o diagrama dos arquivos do repositório:
+- The diagram of the repository files is shown below:
   
 ```markdown
 introdComp/
@@ -53,31 +49,31 @@ introdComp/
 
 -----
 
-## **Executando Códigos Python**
+## **Running Python Code**
 
-- Assumi-se aqui que você já tem instalado o Python 3
+- Here, it is assumed that you already have Python 3 installed
 
-- Para executar códigos basta abrir o `terminal` (se estiver no *windows* é o `prompt` ou `cmd`) e se dirigir até o diretório onde esta o código que deseja ser executado
+- To running codes just open the `terminal` (if it is in *windows* you'll use the `prompt` or `cmd`) and change the directory where the code you want to run is
   
-- Dentro do diretório execute:
+- Within the directory target execute:
 
 ```console
-python3 nome_do_programa.py
+python3 program_name.py
 ```
 
-- **Exemplo:**
+- **Example:**
 
-> primeiro_codigo.py
+> first_code.py
 
 ```python
-print('Olá Mundo! Este é meu primeiro código em Python!')
+print('Hello World! This is my first code in Python!')
 ```
 
-No terminal, vá até o diretório onde o código se encontra e execute:
+In the terminal, go to the directory where the code is located and run:
 
-```console
-python3 primeiro_codigo.py
-> Olá Mundo! Este é meu primeiro código em Python!
+```terminal
+python3 first_code.py
+> Hello World! This is my first code in Python!
 ```
 
 -----
