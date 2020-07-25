@@ -26,42 +26,30 @@
   
 - A seguir é apresentado o diagrama dos arquivos do repositório:
   
-<!-- ```markdown
-exercicio-python/
+```markdown
+introdComp/
 │
-├── codigos-aula/
-│   ├── cod0.py
-│   ├── cod1.py
-│   └── ...
-│
-├── lista-exercicio/
-│   ├── questao-1.py
-│   ├── questao-2.py
-│   └── ...
-│
-├── bank-project/
-│   ├── main.py
-│   ├── search.py
-│   ├── screens.py
-│   ├── utils.py
-│   ├── transfer.py
-│   ├── debit.py
-│   ├── credit.py
-│   └── register.py
+├── codigosAula/
+│   ├── aula2
+│   │   ├── cod1.py
+│   │   ├── cod2.py
+│   │   └── ...
+│   ├── aula3
+│   │   ├── cod1.py
+│   │   ├── cod2.py
+│   │   └── ...
+.
+.
+.
 │
 ├── projetos-rapidos/
 │   ├── jokenpo-simples.py
 │   └── ...
 │
-├── tests/
-│   ├── exercicio-condicional-tests
-│   └── ...
-│
 ├── gitignore
-├── .travis.yml
 ├── LICENSE
 └── README.md
-``` -->
+```
 
 -----
 
