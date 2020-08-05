@@ -6,7 +6,6 @@
 [![GitHub](https://img.shields.io/badge/version-1.0.0-orange)](https://img.shields.io/badge/version-1.0.0-orange)
 [![GitHub license](https://img.shields.io/github/license/maumneto/introdComp)](https://github.com/maumneto/introdComp/blob/master/LICENSE)
 
-  
 This repository goal is to provide support for students of the Introduction of Computer Science course during the development of their programs using the Python 3 language. This repository contains the codes of the problems presented in this course.
   
 -----
@@ -32,12 +31,12 @@ This repository goal is to provide support for students of the Introduction of C
 ```markdown
 introdComp/
 │
-├── codigosAula/
-│   ├── aula2
+├── CodeClasses/
+│   ├── reviewCodes/
 │   │   ├── cod1.py
 │   │   ├── cod2.py
 │   │   └── ...
-│   ├── aula3
+│   ├── conditionalCodes/
 │   │   ├── cod1.py
 │   │   ├── cod2.py
 │   │   └── ...
@@ -45,7 +44,7 @@ introdComp/
 .
 .
 │
-├── projetos-rapidos/
+├── QuickProjects/
 │   ├── jokenpo-simples.py
 │   └── ...
 │
