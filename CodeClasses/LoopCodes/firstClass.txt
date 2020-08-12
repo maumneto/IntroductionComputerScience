@@ -1,0 +1,80 @@
+ESTRUTURAS DE REPETIÇÃO
+	- ESTRUTURAS DE REPETIÇÃO COM VARIAVEL DE CONTROLE (PARA)
+	- ESTRUTURAS DE REPETIÇÃO SEM VARIAVEL DE CONTROLE (ENQUANTO - FAÇA-ENQUANTO - REPITA   )
+
+    - ESTRUTURAS DE REPETIÇÃO COM TESTE NO INICIO
+	- ESTRUTURAS DE REPETIÇÃO COM TESTE NO FINAL
+
+-------------------------------------------------------------------------
+
+ALGORITMO LOOP1
+
+DECLARE num, cont, i : numérico;
+
+INICIO
+	cont <- 0;
+	PARA i <- 1 ATÉ 5 FAÇA
+	INICIO
+		ESCREVA("Digite um número: ");
+		LEIA(num);
+		IF (num MOD 2 = 0) ENTÃO
+			cont = cont + 1;
+	FIM
+	ESCREVA("Quantidade de números pares digitados = ", cont);
+FIM
+
+---------------------------------------------------------------------------
+5! = 5*4*3*2*1 = 120
+5! = 1*2*3*4*5 = 120
+
+ALGORITMO FATORIAL
+
+DECLARE num, i, fat: numérico;
+
+INICIO
+	ESCREVA("Digite um valor inteiro e positivo: ");
+	LEIA(num);
+	IF (num < 0) ENTÃO
+		ESCREVA("NÃO É POSSÍVEL CALCULAR!");
+	SENÃO
+		IF (num = 0 OU num = 1) ENTÃO
+			ESCREVA("1");
+		SENÃO
+			fat = 1;
+			PARA i = 1 ATE num FAÇA
+			INICIO
+				fat = fat*i;
+			FIM
+			ESCREVA("O FATORIAL É: ", fat);
+FIM
+
+
+I	num	SOMA
+---	---	0
+1	10	10
+2	20	30
+3	30	60
+4	40	100
+5	50	150
+6	--	--
+		
+Exercício 1		
+i	num	cont
+--	--	0
+1	3	0
+2	6	1
+3	11	1
+4	16	2
+5	8	3
+6	--	--
+		
+		
+Exercício 2		
+i	num	fat
+--	5	1
+1	5	1
+2	5	2
+3	5	6
+4	5	24
+5	5	120
+6	5	--
