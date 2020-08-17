@@ -84,19 +84,6 @@ python3 first_code.py
 
 -----
 
-<!-- ## **Projeto 1 - Digital Banking**
-
-- O projeto `digital banking` tem o objetivo de desenvolver um banco digital **sem** persistência de dados
-
-- Este projeto serve para treinar os elementos básicos da linguagem Python 3
-
-- Para executar este projeto basta utilizar o comando:
-
-```console
-python3 main.py
-```
-
------ -->
 
 ## **Let's go coding!**
 
