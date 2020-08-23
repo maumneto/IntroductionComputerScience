@@ -1,7 +1,5 @@
-'''
-PROJETO JOKENPO USANDO RECURSOS MAIS AVANÇADOS QUE A VERSÃO SIMPLES.
-criado por @maumneto
-'''
+# PROJETO JOKENPO USANDO RECURSOS MAIS AVANÇADOS QUE A VERSÃO SIMPLES.
+# criado por @maumneto
 
 from random import randint
 from time import sleep

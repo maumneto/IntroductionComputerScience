@@ -1,0 +1,25 @@
+[2020-08-23]
+
+Description:
+    - Pedra-Papel-Tesoura (também conhecido como Jokenpô) é um jogo recreativo de mãos para duas ou mais pessoas. Este jogo não requer nenhum tipo de equipamento nem habilidades. [Wikipedia]
+
+Project:
+    - Name: Jokenpo Simples
+    - Language: Python 3
+    - Requirements:
+        1. Conceitos Básicos;
+        2. Estrutura Sequencial;
+        3. Estruturas de Decisão;
+        4. Estruturas de Repetição;
+        5. Listas.
+
+TODO:
+    [ ] Criar um projeto com a estrutura inicial em Python
+    [ ] Criar a entrada de dados
+    [ ] Analisar se o dado fornecido esta correto
+    [ ] Gerar a opção do computador
+    [ ] Implementar a lógica do jogo
+    [ ] Mostrar o resultado do jogo
+FIXME:
+    - IMPORTANT: Este código pode ser melhorado em diversos aspectos. Futuramente é interessante realizar a refatoração do código.
+
