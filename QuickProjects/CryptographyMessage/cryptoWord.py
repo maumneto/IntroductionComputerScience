@@ -1,13 +1,12 @@
-'''
-ALGORITMO PARA CODIFICAR E DESCODIFICAR UMA PALAVRA
-A cifra é um sistema que é utilizado para esconder o significado de uma mensagem trocando as letras
-do alfabeto por outras letras ou símbolos!
-Suponhamos que você queira enviar uma palavra codificada, ou seja, cada letra será substituída por 
-por outra letra deslocada de N no alfabeto em relação a original. Vamos pegar o exemplo do N = 7! 
-Com esse valor teríamos as seguintes substituíções: a => h, b => i, ...
-Faça um programa que codifique e decodifique uma palavra com base no deslocamento de 7 posições do 
-alfabeto (N = 7).
-'''
+# ALGORITMO PARA CODIFICAR E DESCODIFICAR UMA PALAVRA
+# @author: maumneto
+# A cifra é um sistema que é utilizado para esconder o significado de uma mensagem trocando as letras
+# do alfabeto por outras letras ou símbolos!
+# Suponhamos que você queira enviar uma palavra codificada, ou seja, cada letra será substituída por 
+# por outra letra deslocada de N no alfabeto em relação a original. Vamos pegar o exemplo do N = 7! 
+# Com esse valor teríamos as seguintes substituíções: a => h, b => i, ...
+# Faça um programa que codifique e decodifique uma palavra com base no deslocamento de 7 posições do 
+# alfabeto (N = 7).
 
 import string as str
 from time import sleep
