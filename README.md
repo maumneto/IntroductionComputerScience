@@ -42,7 +42,6 @@ introdComp/
 │   │   └── ...
 .
 .
-.
 │
 ├── QuickProjects/
 │   ├── jokenpo-simples.py
