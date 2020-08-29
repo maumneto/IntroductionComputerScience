@@ -9,7 +9,7 @@ Description:
 
     - Exemplo:
     (para N = 3)
-    claro: `testando` ==> `whvwdqgr`
+    texto: `testando` ==> `whvwdqgr`
     cifra: `whvwdqgr` ==> `testando`
 
     [fonte: ~http://wiki.stoa.usp.br/images/c/cf/Stallings-cap2e3.pdf]
