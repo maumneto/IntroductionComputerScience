@@ -15,7 +15,7 @@ This repository goal is to provide support for students of the Introduction of C
 - Prof. Maurício Moreira Neto
 - Lattes: [Link para Currículo Lattes](http://lattes.cnpq.br/7534400645876830)
 - E-mail: <maumneto@gmail.com>
-- website: [http://lia.ufc.br/~maumneto/](http://lia.ufc.br/~maumneto/)
+- Professor's Website: [http://lia.ufc.br/~maumneto/](http://lia.ufc.br/~maumneto/)
 - Course Website: [ICC Website](https://maumneto.github.io/icc/index.html)
 
 -----
