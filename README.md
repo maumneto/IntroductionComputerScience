@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/version-1.0.0-orange)](https://img.shields.io/badge/version-1.0.0-orange)
 [![GitHub license](https://img.shields.io/github/license/maumneto/introdComp)](https://github.com/maumneto/introdComp/blob/master/LICENSE)
 
-This repository goal is to provide support for students of the Introduction of Computer Science course during the development of their programs using the Python 3 language. This repository contains the codes of the problems presented in this course.
+This repository goal is to provide support for students of the Introduction of Computer Science course during the development of their programs using the Python 3 language. It also contains the codes of the problems presented in this course.
   
 -----
 
@@ -82,7 +82,6 @@ python3 first_code.py
 ```
 
 -----
-
 
 ## **Let's go coding!**
 
