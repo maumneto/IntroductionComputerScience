@@ -1,0 +1,4 @@
+Olá
+estou programando em arquivos!
+testando o teste
+tchau tchau
